@@ -1,0 +1,1 @@
+call scrapy crawl report -o outputData.json -t json
